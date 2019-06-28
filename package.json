@@ -1,0 +1,14 @@
+{
+  "name": "arduino-serialport-websocket-node",
+  "version": "1.0.0",
+  "description": "Connect an arduino and a webapp, using serial port to websockets connection",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serialport": "^7.1.5",
+    "ws": "^7.0.1"
+  },
+  "repository": "git@github.com:frantic0/arduino-serialport-websocket-node.git",
+  "author": "Francisco Bernardo <f.bernardo@sussex.ac.uk>",
+  "license": "MIT"
+}
